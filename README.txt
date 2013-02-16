@@ -5,6 +5,14 @@ mjson
 This module is extended "python -mjson.tool".
 
 
+Install
+----------
+
+.. code-block:: bash
+
+   $ pip install mjson
+
+
 How to use
 ----------
 
