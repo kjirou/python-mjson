@@ -2,7 +2,7 @@ Metadata-Version: 1.1
 Name: mjson
 Version: 0.2
 Summary: Extended "python -mjson.tool"
-Home-page: http://blog.kjirou.net/
+Home-page: https://github.com/kjirou/python-mjson
 Author: kjirou
 Author-email: sorenariblog@gmail.com
 License: MIT License

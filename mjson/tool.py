@@ -21,7 +21,7 @@ def main():
     elif len(args) == 1:
         infile = open(args[0], 'rb')
         outfile = sys.stdout
-    elif len(args) == 3:
+    elif len(args) == 2:
         infile = open(args[0], 'rb')
         outfile = open(args[1], 'wb')
     else:

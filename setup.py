@@ -18,7 +18,7 @@ setup (
     long_description=read_file('README.txt'),
     author='kjirou',
     author_email='sorenariblog@gmail.com',
-    url='http://blog.kjirou.net/',
+    url='https://github.com/kjirou/python-mjson',
     classifiers=[
         'Development Status :: 3 - Alpha',
         'Environment :: Console',
