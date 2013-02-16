@@ -1,0 +1,8 @@
+setup.cfg
+setup.py
+mjson/__init__.py
+mjson/mjson.py
+mjson.egg-info/PKG-INFO
+mjson.egg-info/SOURCES.txt
+mjson.egg-info/dependency_links.txt
+mjson.egg-info/top_level.txt
