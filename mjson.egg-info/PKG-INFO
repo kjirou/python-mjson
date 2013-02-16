@@ -1,6 +1,6 @@
 Metadata-Version: 1.1
 Name: mjson
-Version: 0.2
+Version: 0.3.0
 Summary: Extended "python -mjson.tool"
 Home-page: https://github.com/kjirou/python-mjson
 Author: kjirou

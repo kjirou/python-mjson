@@ -13,7 +13,7 @@ def read_file(filename):
 
 setup (
     name='mjson',
-    version='0.2',
+    version='0.3.0',
     description='Extended "python -mjson.tool"',
     long_description=read_file('README.txt'),
     author='kjirou',
@@ -30,4 +30,9 @@ setup (
     packages=find_packages(),
     keywords=['json', 'tool', 'command'],
     license='MIT License',
+    entry_points={
+        'console_scripts': [
+            'mjson=mjson.tool:main',
+        ],
+    },
 )

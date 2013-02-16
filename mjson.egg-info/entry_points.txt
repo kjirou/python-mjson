@@ -1,0 +1,3 @@
+[console_scripts]
+mjson = mjson.tool:main
+

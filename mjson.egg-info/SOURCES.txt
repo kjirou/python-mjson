@@ -1,3 +1,4 @@
+MANIFEST.in
 README.txt
 setup.cfg
 setup.py
@@ -6,4 +7,5 @@ mjson/tool.py
 mjson.egg-info/PKG-INFO
 mjson.egg-info/SOURCES.txt
 mjson.egg-info/dependency_links.txt
+mjson.egg-info/entry_points.txt
 mjson.egg-info/top_level.txt
