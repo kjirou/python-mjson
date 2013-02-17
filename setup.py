@@ -13,7 +13,7 @@ def read_file(filename):
 
 setup (
     name='mjson',
-    version='0.3.0',
+    version='0.3.1',
     description='Extended "python -mjson.tool"',
     long_description=read_file('README.txt'),
     author='kjirou',
